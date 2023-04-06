@@ -6,7 +6,7 @@ our $DATE = '2023-04-06T11:30+09:00' ;
 
 =head1 NAME
 
-App::diroctopus -- shows the longest directory branch paths (most apart each other) of a given directory.
+App::diroctopus -- Shows the longest directory branch paths (most apart each other) of a given directory.
 
 =head1 SYNOPSIS
 
